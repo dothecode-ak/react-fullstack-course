@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+.mainDiv {
+    text-align: center;
+}
+
+input {
+    width: 34px;
+    height: 30px;
+    text-align: center;
+}
+
+span {
+    display: inline-block;
+    width: 43px;
+    font-weight: normal;
+    /* text-align: center; */
+    background-color: #696161;
+    height: 34px;
+    vertical-align: bottom;
+}
+
+a,
+span {
+    cursor: pointer;
+}
